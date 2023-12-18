@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_unity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
